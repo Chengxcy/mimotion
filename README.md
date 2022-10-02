@@ -74,3 +74,4 @@
 ## 历史Star数
 
 [![Stargazers over time](https://starchart.cc/577fkj/mimotion.svg)](https://starchart.cc/577fkj/mimotion)
+10.2
